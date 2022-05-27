@@ -1,0 +1,31 @@
+id: ID98F2766
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T16:10:18.594774'
+last_modified: '2022-05-27T16:10:18.594828'
+parser: null
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: sa
+  base:
+    f2530:
+      title: Title
+      base_file: f2530.txt
+      order: 1
+    f6690:
+      title: 'Chapter I: Nidāna'
+      base_file: f6690.txt
+      order: 2
+    f5996:
+      title: 'Chapter II: Praṇidhānacaryā'
+      base_file: f5996.txt
+      order: 3
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
